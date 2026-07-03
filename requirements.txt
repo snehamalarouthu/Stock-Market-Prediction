@@ -1,9 +1,9 @@
 streamlit
-numpy
+numpy==1.26.4
 pandas
 matplotlib
 yfinance
 scikit-learn
-tensorflow
+tensorflow==2.16.1
 h5py
 pandas-datareader
